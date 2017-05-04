@@ -4,5 +4,5 @@ body {
 }
 
 #image {
-    transition: 1s, linear;
+    transition-duration: 3s;
 }
